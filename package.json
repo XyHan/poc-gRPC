@@ -1,0 +1,24 @@
+{
+  "name": "poc-grpc",
+  "version": "1.0.0",
+  "description": "poc gRPC / NodeJS",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XyHan/poc-gRPC.git"
+  },
+  "author": "Robin CHEVALIER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XyHan/poc-gRPC/issues"
+  },
+  "homepage": "https://github.com/XyHan/poc-gRPC#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.3",
+    "uuid": "^8.1.0"
+  }
+}
