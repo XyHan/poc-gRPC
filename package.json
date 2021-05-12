@@ -18,7 +18,7 @@
   "homepage": "https://github.com/XyHan/poc-gRPC#readme",
   "dependencies": {
     "@grpc/proto-loader": "^0.5.4",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.9",
     "uuid": "^8.1.0"
   }
 }
